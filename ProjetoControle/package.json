@@ -1,5 +1,5 @@
 {
-  "name": "projeto-controle",
+  "name": "nod",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -19,7 +19,6 @@
     "@angular/animations": "~12.0.5",
     "@angular/common": "~12.0.5",
     "@angular/compiler": "~12.0.5",
-    "@angular/compiler/cli": "~12.0.5",
     "@angular/core": "~12.0.5",
     "@angular/forms": "~12.0.5",
     "@angular/platform-browser": "~12.0.5",
